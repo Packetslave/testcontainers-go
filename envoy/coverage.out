@@ -1,0 +1,9 @@
+mode: set
+github.com/testcontainers/testcontainers-go/modules/envoy/envoy.go:16.112,26.27 3 1
+github.com/testcontainers/testcontainers-go/modules/envoy/envoy.go:26.27,27.61 1 0
+github.com/testcontainers/testcontainers-go/modules/envoy/envoy.go:27.61,29.4 1 0
+github.com/testcontainers/testcontainers-go/modules/envoy/envoy.go:32.2,34.22 3 1
+github.com/testcontainers/testcontainers-go/modules/envoy/envoy.go:34.22,36.3 1 1
+github.com/testcontainers/testcontainers-go/modules/envoy/envoy.go:38.2,38.16 1 1
+github.com/testcontainers/testcontainers-go/modules/envoy/envoy.go:38.16,40.3 1 0
+github.com/testcontainers/testcontainers-go/modules/envoy/envoy.go:42.2,42.15 1 1

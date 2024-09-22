@@ -62,6 +62,10 @@
             "path": "../modules/elasticsearch"
         },
         {
+            "name": "module / envoy",
+            "path": "../modules/envoy"
+        },
+        {
             "name": "module / gcloud",
             "path": "../modules/gcloud"
         },
